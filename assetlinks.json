@@ -1,1 +1,9 @@
-[{"test": "this is as test"}]
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.ebankit.com.bt",
+    "sha256_cert_fingerprints":
+    ["22:15:8C:EB:27:A2:24:AD:BE:BF:47:70:95:32:92:2E:86:AA:39:CC:68:AB:7C:8D:13:C5:1E:23:26:0E:A5:35"]
+  }
+}]
