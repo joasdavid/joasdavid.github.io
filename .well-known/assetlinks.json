@@ -4,31 +4,6 @@
     "namespace": "android_app",
     "package_name": "com.ebankit.com.bt",
     "sha256_cert_fingerprints":
-    ["22:15:8C:EB:27:A2:24:AD:BE:BF:47:70:95:32:92:2E:86:AA:39:CC:68:AB:7C:8D:13:C5:1E:23:26:0E:A5:35"]
-  }
-},
-{
-  "relation": ["delegate_permission/common.get_login_creds"],
-  "target": {
-    "namespace": "web",
-    "site": "https://joasdavid.github.io"
-  }
-},
-{
-  "relation": ["delegate_permission/common.get_login_creds"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.ebankit.com.bt",
-    "sha256_cert_fingerprints":
-    ["22:15:8C:EB:27:A2:24:AD:BE:BF:47:70:95:32:92:2E:86:AA:39:CC:68:AB:7C:8D:13:C5:1E:23:26:0E:A5:35"]
-  }
-},
-{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.ebankit.com.bt",
-    "sha256_cert_fingerprints":
     ["9B:3A:97:EC:E2:2A:0B:A5:CA:82:7E:B9:48:CB:AC:35:00:20:5B:C7:2B:1B:70:2C:ED:2C:87:76:80:7C:42:2B"]
   }
 },
