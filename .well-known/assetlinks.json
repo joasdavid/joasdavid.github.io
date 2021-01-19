@@ -4,7 +4,7 @@
     "namespace": "android_app",
     "package_name": "com.ebankit.com.bt",
     "sha256_cert_fingerprints":
-    ["9B:3A:97:EC:E2:2A:0B:A5:CA:82:7E:B9:48:CB:AC:35:00:20:5B:C7:2B:1B:70:2C:ED:2C:87:76:80:7C:42:2B"]
+    ["BE:72:7E:64:B8:6E:A1:36:8D:E5:81:64:C8:4B:4B:A5:97:96:70:A8:31:86:BB:4B:75:AF:CD:1D:BD:9C:F6:36"]
   }
 },
 {
@@ -20,6 +20,6 @@
     "namespace": "android_app",
     "package_name": "com.ebankit.com.bt",
     "sha256_cert_fingerprints":
-    ["9B:3A:97:EC:E2:2A:0B:A5:CA:82:7E:B9:48:CB:AC:35:00:20:5B:C7:2B:1B:70:2C:ED:2C:87:76:80:7C:42:2B"]
+    ["BE:72:7E:64:B8:6E:A1:36:8D:E5:81:64:C8:4B:4B:A5:97:96:70:A8:31:86:BB:4B:75:AF:CD:1D:BD:9C:F6:36"]
   }
 }]
